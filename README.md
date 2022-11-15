@@ -7,4 +7,6 @@ step :- rename your current theme's sections/header.liquid file to header-origin
 
 DONE! now you can see a custom header on theme panel. Just start to setup your mega menu there.
 
+check this video if you are not from youtube already.  https://www.youtube.com/watch?v=SfFQUrFHaIE
+
 Thanks!!
